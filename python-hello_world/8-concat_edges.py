@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def concat_edges(s):
-    print(s[39:66] + s[106:112] + s[:6])
-concat_edges(text)
+print(str[39:66]+str[106:112]+str[:6])
+
+
 # End of file
